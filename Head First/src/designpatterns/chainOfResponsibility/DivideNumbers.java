@@ -7,6 +7,8 @@ public class DivideNumbers implements Chain{
 	// Defines the next Object to receive the
 	// data if this one can't use it
 	
+	//uurchlult 1
+	
 	public void setNextChain(Chain nextChain) {
 		
 		nextInChain = nextChain;
